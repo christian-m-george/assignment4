@@ -1,0 +1,10 @@
+.main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-button {
+  width: 20%;
+  margin: 10px;
+}
